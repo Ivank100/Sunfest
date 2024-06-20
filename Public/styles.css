@@ -349,6 +349,9 @@ footer{
 
 
 }
+.footer__social-link:hover{
+    cursor: pointer;
+}
 
 /* MEDIA QUERIES*/
 @media (max-width:1600px){
